@@ -8,18 +8,26 @@ Currently Rental bikes are introduced in many urban cities for the enhancement o
 
 ## Algorithms Used :
  **Regularized linear regression:**
-Lasso regression
-Ridge regression
-Elastic net regression
+ 
+>>Lasso regression
+
+>>Ridge regression
+
+>>Elastic net regression
 
   **Ensemble techniques:**
-Decision tree regression
-Random-forest regression 
-XG–Boost regression
-XG–Boost GridsearchCV 
-Regression
+  
+>>Decision tree regression
+
+>>Random-forest regression 
+
+>>XG–Boost regression
+
+>>XG–Boost GridsearchCV 
+
+>>Regression
 
 ## Credits
-Anup A. Jambulkar, Ankit Walde, Anil Bhatt, Vibhu Sharma, Gaurav Malakar.
+Vibhu Sharma,Anup A. Jambulkar, Ankit Walde, Anil Bhatt, Gaurav Malakar.
  
   
