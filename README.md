@@ -1,9 +1,9 @@
-# bike_sharing_demand_prediction_capstone
+# Bike Sharing Demand Prediction Capstone
 ![image](https://user-images.githubusercontent.com/107554669/214306576-1aba5329-4864-415e-af31-8fef14fa8aac.png)
 
 
 
-## Problem Statement
+## Problem Statement:
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 
 
@@ -69,7 +69,7 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 
 • Regression
 
-## Conclusions
+## Conclusions:
 
 • No overfitting is seen. 
 
@@ -78,7 +78,7 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 • For all the models, temperature and Functioning days were ranked as the most influential variable to predict the rental bike demand at each hour. 
 
 
-## Credits
+## Credits:
  Vibhu Sharma | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
